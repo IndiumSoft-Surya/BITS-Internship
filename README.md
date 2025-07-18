@@ -9,6 +9,11 @@
 
 **Specific course topics required for project execution:** Python fundamentals (Pandas, Numpy), Exploratory Data Analysis (EDA), Data visualization libraries (Matplotlib, Seaborn), Intro to Slack/Teams API messaging.
 
+---
+## Demo
+![Demo](img/demo.gif)
+---
+
 ## Pre-requisites
 1. Have a huggingface account with a write token and access to llama3-8b-Instruct.
 
