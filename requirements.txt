@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+pandas
+numpy
+python-dotenv
+python-multipart
+matplotlib
+seaborn
+aiofiles

@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+report.txt
+data.csv
+.env
+# Ignore all generated plots
+static/plots/*
+# EXCEPT the .keep file
+!static/plots/.keep
