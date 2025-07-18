@@ -14,7 +14,7 @@
 
 2. Have a slack API access token.
 
-3. Import workflow.json into n8n. And setup the Slack trigger with your own channels and account. (You can edit this to work with MS teams and stuff too).
+3. Import `workflow.json` into n8n. And setup the Slack trigger with your own channels and account. (You can edit this to work with MS teams and stuff too).
 
 ![Slack Trigger](img/trigger.png)
 
